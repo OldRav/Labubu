@@ -1,0 +1,16 @@
+typing_extensions~=4.12.2
+python-dateutil~=2.7.5
+cryptography~=44.0.0
+aiohttp-retry~=2.9.1
+eth-account~=0.11.3
+websockets~=15.0.1
+curl_cffi~=0.11.3
+aiohttp~=3.11.14
+requests~=2.32.4
+pydantic~=2.5.3
+inquirer~=3.1.4
+tls_client~=1.0
+urllib3~=2.0.7
+loguru~=0.6.0
+tqdm~=4.67.1
+web3~=6.13.0
